@@ -1,4 +1,3 @@
-```md
 # 👋 Hola, soy David Melo Valbuena
 
 ### 🚀 Ingeniero de Datos e Inteligencia Artificial
@@ -36,9 +35,9 @@ Soy un apasionado por la **ingeniería de datos, machine learning y analítica**
 ---
 
 ## 📊 GitHub Stats
-![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidMeloValbuena&show_icons=true&theme=radical)
+![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=Davidmelo9133&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidMeloValbuena&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davidmelo9133&layout=compact&theme=radical)
 
 ---
 
@@ -49,4 +48,3 @@ Soy un apasionado por la **ingeniería de datos, machine learning y analítica**
 ---
 
 ✨ Siempre aprendiendo y construyendo soluciones inteligentes con datos.
-```
