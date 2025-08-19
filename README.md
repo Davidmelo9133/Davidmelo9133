@@ -7,18 +7,20 @@ Soy un apasionado por la **ingeniería de datos, machine learning y analítica**
 ---
 
 ## 👨‍💻 About Me
-- 💻 Trabajo con **Python, SQL (PostgreSQL, MySQL), Java y JavaScript**.
-- 🔗 Desarrollo y consumo de **APIs**.
+- 💻 Trabajo con **Python, R, SQL (PostgreSQL, MySQL), Java y JavaScript**.
+- 🔗 Desarrollo y consumo de **APIs** y **servicios web**.
 - ⚙️ Experiencia en **ETLs, orquestación con Airflow y streaming con Kafka**.
 - 🤖 Implementación de modelos de **Machine Learning**.
 - 📊 Analítica y BI con **Power BI** y **Looker**.
 - 🐧 Entornos de desarrollo en **Ubuntu/Linux**.
+- 📓 Desarrollo de proyectos en **Jupyter Notebooks**.
 
 ---
 
 ## ⚒️ Languages, Frameworks, and Tools
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
@@ -30,14 +32,8 @@ Soy un apasionado por la **ingeniería de datos, machine learning y analítica**
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40"/>
 </p>
-
----
-
-## 📊 GitHub Stats
-![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=Davidmelo9133&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davidmelo9133&layout=compact&theme=radical)
 
 ---
 
